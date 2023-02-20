@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.controller.support;
+
+import org.springframework.boot.test.web.server.LocalServerPort;
+
+public class BaseTest {
+  @LocalServerPort
+  private int serverPort;
+  
+  protected String getBaseIri() {
+    return String.format("http://localhost:%d/jeeps", serverPort)
+  }
+
+}

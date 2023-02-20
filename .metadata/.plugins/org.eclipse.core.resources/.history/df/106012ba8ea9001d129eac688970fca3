@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.controller;
+
+import java.util.List;
+import com.promineotech.jeep.entity.Jeep;
+import io.swagger.v3.oas.annotations.OpenAPIDefinition;
+import io.swagger.v3.oas.annotations.info.Info;
+import io.swagger.v3.oas.annotations.servers.Server;
+
+@OpenAPIDefinition(info = @Info(title = "Jeep Sales Service"), servers = {
+    @Server(url = "http://localhost:8080", description = "Local server.")})
+
+public interface JeepSalesController {
+  List<Jeep> fetchJeeps(String model, String trim);
+  
+}

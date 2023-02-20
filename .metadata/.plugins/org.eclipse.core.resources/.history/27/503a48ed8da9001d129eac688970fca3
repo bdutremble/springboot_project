@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.controller;
+
+import java.util.List;
+import com.promineotech.jeep.entity.Jeep;
+
+/**
+ * @author briandutremble
+ *
+ */
+public interface JeepSalesController {
+  List<Jeep> fetchJeeps(String model, String trim);
+  
+}

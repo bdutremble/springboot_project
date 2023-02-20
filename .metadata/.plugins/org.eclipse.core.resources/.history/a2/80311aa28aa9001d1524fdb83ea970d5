@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.entity;
+
+/**
+ * @author briandutremble
+ *
+ */
+public class Jeep {
+
+}

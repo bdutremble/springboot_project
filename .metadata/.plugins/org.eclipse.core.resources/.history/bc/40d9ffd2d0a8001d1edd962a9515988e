@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.promineotech.jeep;
+
+/**
+ * @author briandutremble
+ *
+ */
+public class JeepSales {
+
+  /**
+   * @param args
+   */
+  public static void main(String[] args) {
+    // TODO Auto-generated method stub
+
+  }
+
+}

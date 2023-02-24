@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.service;
+
+/**
+ * @author briandutremble
+ *
+ */
+public interface JeepSalesService {
+
+}

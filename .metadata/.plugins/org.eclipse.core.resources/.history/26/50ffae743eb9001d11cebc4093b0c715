@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.errorhandler;
+
+/**
+ * @author briandutremble
+ *
+ */
+public class GlobalErrorHandler {
+
+}

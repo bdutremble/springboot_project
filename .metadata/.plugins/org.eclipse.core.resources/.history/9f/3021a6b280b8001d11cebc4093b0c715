@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.dao;
+
+/**
+ * @author briandutremble
+ *
+ */
+public interface JeepSalesDao {
+
+}

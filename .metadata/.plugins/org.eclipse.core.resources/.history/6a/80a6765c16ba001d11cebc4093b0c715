@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.controller;
+
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+import com.promineotech.jeep.controller.support.CreateOrderTestSupport;
+
+/**
+ * @author briandutremble
+ *
+ */
+class CreateOrderTest extends CreateOrderTestSupport {
+
+  @Test
+  void test() {
+    fail("Not yet implemented");
+  }
+
+}

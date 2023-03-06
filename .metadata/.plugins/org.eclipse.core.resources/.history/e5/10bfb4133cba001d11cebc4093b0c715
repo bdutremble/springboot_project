@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.controller;
+
+/**
+ * @author briandutremble
+ *
+ */
+public interface JeepOrderController {
+
+}

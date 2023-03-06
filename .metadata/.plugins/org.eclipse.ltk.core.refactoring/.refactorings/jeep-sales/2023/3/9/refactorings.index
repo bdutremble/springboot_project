@@ -1,2 +1,7 @@
 1677797812016	Extract method 'assertErrorMessageValid'
 1677800535836	Extract constant 'TRIM_MAX_LENGTH'
+1677897325363	Extract method 'createOrderBody'
+1677897932391	Rename method 'getBaseUri'
+1677900270987	Delete element
+1677900290398	Copy compilation unit
+1677951598816	Rename compilation unit 'DefaultOrderService.java'

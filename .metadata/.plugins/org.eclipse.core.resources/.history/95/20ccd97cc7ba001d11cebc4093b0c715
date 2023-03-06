@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.promineotech.jeep.service;
+
+import org.springframework.stereotype.Service;
+import com.promineotech.jeep.entity.Order;
+import com.promineotech.jeep.entity.OrderRequest;
+
+/**
+ * @author briandutremble
+ *
+ */
+@Service
+public interface JeepOrderService {
+
+  /**
+   * @param orderRequest
+   * @return
+   */
+  Order createOrder(OrderRequest orderRequest);
+
+}
